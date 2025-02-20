@@ -10,18 +10,20 @@ authors:
 affiliations:
  - name: FCyT - UMSS
    index: 1
+lang: es
 date: 20 February 2025
 bibliography: paper.bib
 ---
 
-# Introduccion
+# Introducción
 
 Uno o dos parrafos explicando que hay en este informe
 
-# Metodos y Materiales
+# Métodos y Materiales
 
 Materiales son:
-- Vernier/ Calibrador
+
+- Vernier / Calibrador
 - Cilindro hueco
 
 Medir algunas cosas del cilindro, ver figura  \autoref{fig:example} (tomada de referencia [@UMSS_LabFisica])
@@ -30,17 +32,17 @@ Medir algunas cosas del cilindro, ver figura  \autoref{fig:example} (tomada de r
 
 # Resultados
 
-Las mediciones fueron
+Las mediciones son:
 
 $$ m = ( 50  \pm 1 )[g]  $$
 
 # Discusion y Conclusiones
 
-Uno o dos parrafos con cosas que aprendi observe
+Uno o dos parrafos con cosas que aprendí observé
 
 # Cuestionario
 
-Responder de la guia
+Responder preguntas de la guía
 
 # Referencias
 
