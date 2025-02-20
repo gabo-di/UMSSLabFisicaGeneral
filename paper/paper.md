@@ -36,7 +36,7 @@ Las mediciones son:
 
 $$ m = ( 50  \pm 1 )[g]  $$
 
-# Discusion y Conclusiones
+# Discusión y Conclusiones
 
 Uno o dos parrafos con cosas que aprendí observé
 
