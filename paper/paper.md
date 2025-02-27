@@ -18,6 +18,9 @@ bibliography: paper.bib
 # Introducción
 
 Uno o dos parrafos explicando que hay en este informe
+asdfasdfasdfasdfasdfasdfasdfsadfasdf
+asdfasdfasdfasdfasdfasdfasdfsadfasdfasdfasdf
+
 
 # Métodos y Materiales
 
